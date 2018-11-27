@@ -1,6 +1,6 @@
 token=NTE2ODM4NjEwMDc5NzExMjM4.Dt5fCw.K0O2wSiS7k_b0Htjj8ff0pgpLYo
 owner=435239093182398480
-prefix= 10
-game= 10play
+prefix= pt
+game= ptplay
 stayinchannel=true
 songinstatus=true 
